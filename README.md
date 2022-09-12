@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @gonzalomadnessdev
+<h1>👋 Hi, I’m @gonzalomadnessdev</h1>
+
 - 👀 I’m interested in fullstack development
 - 🌱 I’m currently learning laravel
 - 📫 How to reach me gonzalo.hr.albornoz@gmail.com
