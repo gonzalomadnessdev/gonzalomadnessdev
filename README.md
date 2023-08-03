@@ -2,7 +2,6 @@
 <p>
   <ul>
     <li>- 👀 I’m interested in fullstack development</li>
-    <li>- 🌱 I’m currently learning Laravel 8</li>
     <li>- 📫 How to reach me <a href="mailto:gonzalo.hr.albornoz@gmail.com">gonzalo.hr.albornoz@gmail.com</a></li>
   </ul>
 </p>
